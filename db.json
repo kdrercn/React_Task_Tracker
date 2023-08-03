@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Sandalye döşeme",
-      "day": "01.08.2023",
-      "reminder": false
+      "text": "adasds",
+      "day": "dsada",
+      "reminder": false,
+      "id": 3
     },
     {
-      "text": "Koltuk döşeme",
-      "day": "21312",
-      "reminder": true,
-      "id": 3
+      "text": "dsaa",
+      "day": "asdsad",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
