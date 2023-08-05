@@ -1,2 +1,2 @@
 # Kadir Ercen
-First React App
+First React App - Traversy Media @YouTube
