@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "Koltuk",
-      "day": "03.08.2023",
-      "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "Sandalye",
-      "day": "01.08.2023",
-      "reminder": true,
-      "id": 6
+      "text": "sdaasd",
+      "day": "asdasd",
+      "reminder": false,
+      "id": 1
     }
   ]
 }
